@@ -29,7 +29,7 @@ mengambil Power-Up. Setiap map berukuran 14 × 10 tile dan memiliki mekanisme li
 
 | Nama | NIM | Fitur |
 |------|-----|-------|
-| Murtaza Ahsan | 18225004 | [Peran] |
-| Rafa Muhammad Nazfi | 18225044 | [Peran] |
-| Rashid May | 18222014 | [Peran] |
-| Rafi Febrian | 18225034 | [Peran] |
+| Murtaza Ahsan | 18225004 | F0, F1, F2 |
+| Rafa Muhammad Nazfi | 18225044 | F7, F8, F9 |
+| Rashid May | 18222014 | F5, F6 |
+| Rafi Febrian | 18225034 | F3, F4 |
